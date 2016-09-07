@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FizzBuzzAndroid</string>
+    <string name="edit_number">Enter a number</string>
+</resources>
